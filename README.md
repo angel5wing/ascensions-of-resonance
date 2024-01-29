@@ -1,4 +1,4 @@
-Ascensions of Resonance: Navigating Material Constraints in Creative Expression
+# Ascensions of Resonance: Navigating Material Constraints in Creative Expression
 
 This project explores the capabilities of human creativity and expression under varying periods of material constraint through
 the visualisation of data related to global forecasts of cobalt consumption into the shape
