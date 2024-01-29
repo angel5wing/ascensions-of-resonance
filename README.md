@@ -6,5 +6,5 @@ of an audio waveform. This waveform not only represents the increasing demand fo
 in relation the exponential development of the electronics industry, but also serves to metaphorically visualise 
 our current need to devise creative solutions in order to combat the negative environmental effects created by
 such widespread cobalt extraction. This project works to bridge the gap between these two seemingly disparate
-temporal periods by subverting the function of a pen plotter and physically engraving this visual representation 
+temporal periods by subverting the function of a pen plotter to physically engrave this visual representation 
 onto the material of a rib recording reproduction from the Soviet era using a laser cutter.
